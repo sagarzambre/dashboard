@@ -1,0 +1,5 @@
+Please create database named "dashboard" and table named "dashboard_data". Insert data from data.csv into this table with help of dbeaver's import csv files tool.
+Or use scripts provided in src/main/resources/myscripts/
+
+To display all data on browser, run project and hit "http://localhost:8098/data"
+To display single record, hit "http://localhost:8098/data/{id}" 
